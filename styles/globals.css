@@ -1,3 +1,76 @@
-nav {
-  color: aquamarine;
+.btn-outline-success {
+  margin-right: 12px;
+}
+
+.heading-home {
+  padding-top: 20vh;
+  display: flex;
+  justify-content: center;
+  color:#fff;
+}
+
+.text-danger {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 70rem;
+  margin: 1.2rem auto;
+  text-align: center;
+  font-size: larger;
+}
+
+.learn-more-sgnUP {
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.btn-lg {
+  text-align: center;
+  background-color: #073642;
+  border-radius: 32px;
+  margin-right: 16px;
+  box-shadow: 0 4px 8px 0 #1d1d1d;
+}
+
+.btn-lg:hover {
+  box-shadow: 0 6px 16px 0 #2c2c2c;
+  transition: ease-in .1s;
+}
+
+.info-start {
+  margin-top: 5rem;
+  background-color: #fff;
+  min-height: 100vh;
+}
+
+.info-mid {
+  background-color: #b5e4f0;
+  min-height: 100vh;
+}
+
+.info-end {
+  background-color: #fff;
+  min-height: 100vh;
+}
+
+
+
+.footer-grid-cont {
+  background-color: #b5e4f0;
+  min-height: 50vh;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
+  grid-column-gap: 50px;
+}
+
+.grid-item {
+  
+
+  padding: 10px;
+}
+
+.foot-link-item {
+  text-decoration: none;
+  display: block;
 }

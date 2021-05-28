@@ -30,8 +30,10 @@ const Navbar = () => {
                     </li>
                 </ul>
                 <form className="d-flex">
-                    <button type="button" class="btn btn-outline-success">Log In</button>
-                    <button type="button" class="btn btn-outline-danger">Register</button>
+                    <span className="buttons">
+                        <button type="button" className="btn btn-outline-success">Log In</button>
+                        <button type="button" className="btn btn-outline-danger">Register</button>
+                    </span>
                 </form>
                 </div>
             </div>
