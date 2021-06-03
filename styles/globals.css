@@ -74,3 +74,11 @@
   text-decoration: none;
   display: block;
 }
+
+.info-start {
+  padding-top: 7em;
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
+  grid-column: 7;
+  gap: 0 10em;
+}
