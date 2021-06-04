@@ -1,5 +1,5 @@
 import React from 'react'
-import test from '../../public/Analytics team_Flatline.svg'
+//import test from '../../public/Analytics team_Flatline.svg'
 
 
 const InfoMid = () => {
@@ -12,7 +12,7 @@ const InfoMid = () => {
                 <p className="saying-infoStart">We gather airplane fares, gas prices, and other useful data that suits what you need.</p>
                 <button type="button" className="btn btn-danger btn-lg">See Demo Account</button>
                 </div>
-                <img className="imagestart" src={test}></img>
+                <img src="/Analytics team_Flatline.svg"></img>
             </div>
         </div>
     )
