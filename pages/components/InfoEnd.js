@@ -7,7 +7,7 @@ const InfoEnd = () => {
         <div className="info-start-cont">
             <div className="info-start">
                 <div></div>
-                <img src="public/Piggy Bank_Flatline.svg"></img>
+                <img src="/Piggy Bank_Flatline.svg"></img>
                 <div className="descrip">
                 <h2 className="heading-infoStart">When you both save, we chip in!</h2>
                 <p className="saying-infoStart">Earn points you can redeem for actual cash when both parties add money.</p>
