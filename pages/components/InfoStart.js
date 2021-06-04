@@ -6,10 +6,14 @@ const InfoStart = () => {
         <div className="info-start-cont">
             <div className="info-start">
                 <div></div>
-                <div></div>
                 <img className="imagestart" src={test}></img>
-                <div></div>
-                <h2>Create an invite-only place where you belong</h2>
+
+                <div className="descrip">
+                <h2 className="heading-infoStart">They're a part of you, go see them!</h2>
+                <p className="saying-infoStart">Seesies accounts are built to show you the fastest way to see your other half!</p>
+                <button type="button" className="btn btn-success btn-lg">Learn More</button>
+
+                </div>
             </div>
         </div>
     )
