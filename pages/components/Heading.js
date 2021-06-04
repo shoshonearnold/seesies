@@ -14,7 +14,7 @@ const Heading = () => {
                 From across the world or across the street, we'll help you come together!</p>
             </div>
             <div className="learn-more-sgnUP">
-                <button type="button" className="btn btn-success btn-lg">Learn More</button>
+                <button type="button" className="btn btn-success btn-lg">Sign Up!</button>
                 <button type="button" className="btn btn-danger btn-lg">Learn More</button>
 
             </div>
