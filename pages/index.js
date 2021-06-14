@@ -1,12 +1,12 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import Footer from './components/Footer'
-import Heading from './components/Heading'
-import InfoEnd from './components/InfoEnd'
-import InfoMid from './components/InfoMid'
-import InfoStart from './components/InfoStart'
-import Navbar from './components/Navbar'
+import Footer from './components/frontpage/Footer'
+import Heading from './components/frontpage/Heading'
+import InfoEnd from './components/frontpage/InfoEnd'
+import InfoMid from './components/frontpage/InfoMid'
+import InfoStart from './components/frontpage/InfoStart'
+import Navbar from './components/frontpage/Navbar'
 
 export default function Home() {
   return (
